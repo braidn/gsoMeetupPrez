@@ -1,0 +1,5 @@
+#Installation
+
+##Linux: Why are you asking?
+##Windows: Msysgit
+##Mac: Homebrew, Macports (boo!)

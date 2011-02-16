@@ -1,0 +1,6 @@
+#My Status
+
+<div class="center">
+<img src="http://faqsocial.org/wp-content/uploads/2010/08/facebook-status-2.gif.jpg" />
+
+</div>

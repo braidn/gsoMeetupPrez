@@ -1,0 +1,6 @@
+#Intros
+<center> My name is Braden </center>
+<br />
+<center>I am <b>not</b> "Internet famous"</center>
+<br />
+<center>I slay dragons with VIM</center>

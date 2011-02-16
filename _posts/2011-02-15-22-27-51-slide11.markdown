@@ -1,0 +1,4 @@
+#Branching
+<div class="center">
+<img src="http://people.gnome.org/~federico/misc/git-repo-3.png" />
+</div>

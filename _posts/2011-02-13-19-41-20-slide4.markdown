@@ -1,0 +1,6 @@
+#What are your options?
+1. Git (Originated out of Bitkeeper)
+2. SVN or Subversion (original goal was to replace CVS
+3. Mercurial (Originated out of Bitkeeper)
+4. CVS (used A LOT)
+
