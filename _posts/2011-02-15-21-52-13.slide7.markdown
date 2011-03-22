@@ -1,0 +1,4 @@
+#Init Command
+
+<center>$ init [your repo name]</center>
+<center>Don't be afraid of the Terminal / CMD line, etc</center>
