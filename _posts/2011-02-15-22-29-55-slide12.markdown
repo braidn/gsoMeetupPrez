@@ -2,4 +2,4 @@
 2. Pro Git free ebook
 3. Think Vitamin
 4. Duck Duck Go
-5. http://bit.ly/hZ99Al
+5. http://bit.ly/hZ99Al < "L".downcase
