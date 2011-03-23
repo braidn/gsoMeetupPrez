@@ -1,4 +1,0 @@
-#Branch Command
-##<center>$ branch [options] name</center>
-##<center>$ checkout branchname</center>
-<center>Your best friend, and a reason why GIT is so powerfull</center>
