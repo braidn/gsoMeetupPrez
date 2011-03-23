@@ -1,0 +1,3 @@
+#Commit Something Awesome Often
+##<center>$ commit [flags]</center>
+<center>This is when and where all the Magik happens</center>
