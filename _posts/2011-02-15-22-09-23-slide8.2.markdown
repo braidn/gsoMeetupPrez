@@ -1,0 +1,4 @@
+#Status Command
+##<center> $ status </center>
+<center>Don't make it more complicated than it is.</center>
+<center>Often times aliased to "git st"</center>
