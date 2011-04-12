@@ -1,5 +1,3 @@
 #Add Comand
 
-##<center>$ git add [option] {files}</center>
-<center> "." for all files and remember, this isn't changing
-anything</center>
+##$ git add \[option\] 

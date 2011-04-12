@@ -64,7 +64,7 @@ h1 {
   text-align: center;
   font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 100;
-  font-size: 4.5em;
+  font-size: 5.5em;
 }
 
 .vcenter h1 {
@@ -75,8 +75,14 @@ h2 {
   text-align: center;
   margin-bottom: .25em;
   font-family: 'HelveticaNeue-CondensedBlack', 'Helvetica Neue Condensed Black', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 400;
-  font-size: 2.5em;
+  font-weight: 300;
+  font-size: 3.0em;
+  letter-spacing: 2px;
+}
+h3 {
+    text-align: center;
+    font-weight: 200;
+    font-size: 2.0em;
 }
 
 .licence {

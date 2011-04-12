@@ -1,4 +1,2 @@
 #Log Rides
-<div class="center">
-<img src="http://mybroadband.co.za/photos/data/500/medium/YepWood2517.jpg" />
-</div>
+<img src="https://img.skitch.com/20110412-8488w5339rq8ermwjyct3sk9sj.jpg" />

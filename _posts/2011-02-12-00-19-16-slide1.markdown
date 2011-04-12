@@ -1,7 +1,7 @@
 #Intros
-<center> My name is Braden </center>
+##My name is Braden.
 <br />
-<center>I am <b>not</b> "Internet famous"</center>
+##I slay dragons with VIM...
+##not as often as I would like.
 <br />
-<center>I slay dragons with VIM</center>
-<center>...not as often as I would like</center>
+##Feel free to ask questions anytime during the conversation on twitter with @brad3nd
